@@ -1,0 +1,12 @@
+# Complete dungeon floor, viewed from above.
+# First row: north/minimum Z.  First character of each row: west/minimum X.
+# M = mossy cobblestone; C = ordinary cobblestone; ? = unknown tile.
+#
+# This is a syntactic template only, not a real dungeon observation.
+?CMCMCM
+CMCMCMC
+MCMCMCM
+CMCMCMC
+MCMCMCM
+CMCMCMC
+MCMCMCM
